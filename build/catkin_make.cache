@@ -1,2 +1,2 @@
-
+test_package
 -DCATKIN_DEVEL_PREFIX=/home/lee/ros_workspaces/ros_practise/devel -DCMAKE_INSTALL_PREFIX=/home/lee/ros_workspaces/ros_practise/install -G Unix Makefiles

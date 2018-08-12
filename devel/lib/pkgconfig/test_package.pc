@@ -1,0 +1,8 @@
+prefix=/home/lee/ros_workspaces/ros_practise/devel
+
+Name: test_package
+Description: Description of test_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lee/ros_workspaces/ros_practise/devel/lib 
+Requires: 
