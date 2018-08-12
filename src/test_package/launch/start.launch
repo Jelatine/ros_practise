@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="test_package" name="the_package" type="talker"/>
+	<node pkg="test_package" name="" type="listener"/>
+</launch>
